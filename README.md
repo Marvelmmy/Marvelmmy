@@ -35,7 +35,7 @@ Aspiring **AI Engineer** interested in building optimized AI models for distribu
 ## 📫 Connect with Me
 
 - 🌐 GitHub: [Marvelmmy](https://github.com/Marvelmmy)  
-- ✉️ Email: constantinemarvel1405.com  
+- ✉️ Email: constantinemarvel1405@gmail.com  
 - 🔗 LinkedIn: (not yet)
 
 ---
