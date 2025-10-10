@@ -42,4 +42,4 @@ Aspiring **AI Engineer** interested in building optimized AI models for distribu
 
 ## 📊 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=Marvelmmy&show_icons=true&theme=radical)
+[Marvelmmy](https://github-readme-stats.vercel.app/api?username=Marvelmmy&show_icons=true&theme=radical)
