@@ -18,8 +18,8 @@ Aspiring **AI Engineer** interested in building optimized AI models for distribu
 | Category | Tools / Technologies |
 |----------|------------------------|
 | Programming Langs | Python |
-| ML / DL Frameworks | PyTorch, scikit-learn |
-| Data & Visualization | NumPy, Pandas, Matplotlib, Seaborn |
+| ML / DL Frameworks | scikit-learn |
+| Data & Visualization | NumPy, Pandas, Matplotlib |
 | Other | REST API, frontend, ERP systems (odoo) etc. |
 
 ---
