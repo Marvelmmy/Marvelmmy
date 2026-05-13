@@ -1,17 +1,12 @@
 # 💫 About Me:
-# 👋 Hi, I’m Constantine Marvel
-
+👋 Hi, I’m Constantine Marvel
 Currently a 12th grader at Sekolah Dian Harapan Lippo Village (SDHLV).  
 Aspiring **AI Engineer** interested in building optimized AI models for distributed computing, TPUs, GPUs, and multimodal AI.
 
----
-
 ## 🚀 What I’m Learning & Doing
-
 - 📚 Learning: Machine Learning, Deep Learning  
 - 🔍 Areas of Interest: Deep Learning, Computer Vision, AI Research, Full-stack Engineering  
 - 🛠 Right now building / practicing with projects like digit classifier, etc.<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marvelmmy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/constantine marvel) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@inimarvelbanh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@marvelmmy1405) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marvelmamuaya@gmail.com) 
